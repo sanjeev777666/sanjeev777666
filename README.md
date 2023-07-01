@@ -20,4 +20,4 @@
 
 ######
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev777666&show_icons=true&locale=en&layout=compact" alt="sanjeev777666" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="600" height="165"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="500" height="165"/></p>
