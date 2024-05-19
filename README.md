@@ -14,7 +14,9 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev777666&show_icons=true&locale=en&layout=compact" alt="sanjeev777666" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="600" height="165"/></p>
+<p>
+ 
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev777666&show_icons=true&locale=en&layout=compact" alt="sanjeev777666" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="600" height="165"/></p>
 
