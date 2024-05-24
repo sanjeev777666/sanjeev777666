@@ -18,6 +18,6 @@
  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeev777666&show_icons=true&locale=en&layout=compact" alt="sanjeev777666" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="517" height="165"/></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeev777666&" alt="sanjeev777666" width="500" height="165"/></p>
 
 
