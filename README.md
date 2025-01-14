@@ -2,14 +2,13 @@
 ![](https://komarev.com/ghpvc/?username=sanjeev777666&color=blueviolet)
 <h3 align="center">Data Science Enthusiast</h3>
 
-<!-- h3 align="left">Connect with me:</h3 -->
 <p align="left">
 </p>
 
 ---
 
 ### 👨‍💻 Space:
-- 🌱 Currently enhancing my knowledge-base in field of **Big Data** & **Generative AI**.
+- 🌱 Currently enhancing my knowledge-base in the domain of **Big Data** & **Generative AI**.
 - 👯 Eagerly looking forward to collaborate on **AI and Data Science workflows**.
 
 ---
