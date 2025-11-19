@@ -1,6 +1,6 @@
 ### Hi there, Welcome 👋
 ![](https://komarev.com/ghpvc/?username=sanjeev777666&color=blueviolet)
-<h3 align="center">Data Science Enthusiast</h3>
+
 
 <p align="left">
 </p>
